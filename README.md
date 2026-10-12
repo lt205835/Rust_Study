@@ -4,6 +4,7 @@
 
 # 检查是否有未提交的修改
 git status
+git add . // 提交修改
 
 # 切换到 master
 git switch master
